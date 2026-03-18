@@ -30,3 +30,4 @@ Thumbs.db
 # Project specific folders
 testfiles/
 homeworks/chunk_embeddings.npy
+lectures/chunk_embeddings.npy
